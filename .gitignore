@@ -1,0 +1,6 @@
+*.avi
+*.sdf
+*.opensdf
+Intermediary
+Output
+*lib
